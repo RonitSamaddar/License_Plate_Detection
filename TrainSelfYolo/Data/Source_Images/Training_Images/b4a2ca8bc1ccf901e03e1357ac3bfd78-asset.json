@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "b4a2ca8bc1ccf901e03e1357ac3bfd78",
+        "name": "i412.png",
+        "path": "file:/home/ronit/Training_Images/i412.png",
+        "size": {
+            "width": 275,
+            "height": 183
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "FhyxFCiQc",
+            "type": "RECTANGLE",
+            "tags": [
+                "License_plate"
+            ],
+            "boundingBox": {
+                "height": 45.11763822115385,
+                "width": 275,
+                "left": 0,
+                "top": 96.77884615384616
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 96.77884615384616
+                },
+                {
+                    "x": 275,
+                    "y": 96.77884615384616
+                },
+                {
+                    "x": 275,
+                    "y": 141.896484375
+                },
+                {
+                    "x": 0,
+                    "y": 141.896484375
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

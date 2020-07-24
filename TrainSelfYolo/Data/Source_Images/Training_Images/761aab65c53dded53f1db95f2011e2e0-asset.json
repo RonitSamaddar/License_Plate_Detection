@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "761aab65c53dded53f1db95f2011e2e0",
+        "name": "i88.png",
+        "path": "file:/home/ronit/Training_Images/i88.png",
+        "size": {
+            "width": 100,
+            "height": 100
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "UBHDy6g-v",
+            "type": "RECTANGLE",
+            "tags": [
+                "License_plate"
+            ],
+            "boundingBox": {
+                "height": 60.19108280254777,
+                "width": 99.68152866242038,
+                "left": 0.3184713375796178,
+                "top": 17.038216560509554
+            },
+            "points": [
+                {
+                    "x": 0.3184713375796178,
+                    "y": 17.038216560509554
+                },
+                {
+                    "x": 100,
+                    "y": 17.038216560509554
+                },
+                {
+                    "x": 100,
+                    "y": 77.22929936305732
+                },
+                {
+                    "x": 0.3184713375796178,
+                    "y": 77.22929936305732
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

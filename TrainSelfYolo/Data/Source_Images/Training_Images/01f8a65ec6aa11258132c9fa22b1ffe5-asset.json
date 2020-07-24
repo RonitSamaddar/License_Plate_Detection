@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "01f8a65ec6aa11258132c9fa22b1ffe5",
+        "name": "i180.png",
+        "path": "file:/home/ronit/Training_Images/i180.png",
+        "size": {
+            "width": 259,
+            "height": 194
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "jO36ApvAs",
+            "type": "RECTANGLE",
+            "tags": [
+                "License_plate"
+            ],
+            "boundingBox": {
+                "height": 98.32423208191126,
+                "width": 245.75191815856778,
+                "left": 13.248081841432224,
+                "top": 48.955204778157
+            },
+            "points": [
+                {
+                    "x": 13.248081841432224,
+                    "y": 48.955204778157
+                },
+                {
+                    "x": 259,
+                    "y": 48.955204778157
+                },
+                {
+                    "x": 259,
+                    "y": 147.27943686006824
+                },
+                {
+                    "x": 13.248081841432224,
+                    "y": 147.27943686006824
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

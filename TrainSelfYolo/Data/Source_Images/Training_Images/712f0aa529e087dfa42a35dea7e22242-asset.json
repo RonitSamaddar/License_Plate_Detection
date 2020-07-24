@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "712f0aa529e087dfa42a35dea7e22242",
+        "name": "i450.png",
+        "path": "file:/home/ronit/Training_Images/i450.png",
+        "size": {
+            "width": 316,
+            "height": 159
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "LPcT7RGKi",
+            "type": "RECTANGLE",
+            "tags": [
+                "License_plate"
+            ],
+            "boundingBox": {
+                "height": 29.635496183206108,
+                "width": 106.2762148337596,
+                "left": 95.769820971867,
+                "top": 129.3645038167939
+            },
+            "points": [
+                {
+                    "x": 95.769820971867,
+                    "y": 129.3645038167939
+                },
+                {
+                    "x": 202.04603580562662,
+                    "y": 129.3645038167939
+                },
+                {
+                    "x": 202.04603580562662,
+                    "y": 159
+                },
+                {
+                    "x": 95.769820971867,
+                    "y": 159
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

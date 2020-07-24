@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "03919756f3c8de7c735ad6dbb76eba1f",
+        "name": "i365.png",
+        "path": "file:/home/ronit/Training_Images/i365.png",
+        "size": {
+            "width": 1024,
+            "height": 623
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "TOHA76nMb",
+            "type": "RECTANGLE",
+            "tags": [
+                "License_plate"
+            ],
+            "boundingBox": {
+                "height": 66.75,
+                "width": 185.94373401534529,
+                "left": 164.99232736572893,
+                "top": 259.00390625
+            },
+            "points": [
+                {
+                    "x": 164.99232736572893,
+                    "y": 259.00390625
+                },
+                {
+                    "x": 350.9360613810742,
+                    "y": 259.00390625
+                },
+                {
+                    "x": 350.9360613810742,
+                    "y": 325.75390625
+                },
+                {
+                    "x": 164.99232736572893,
+                    "y": 325.75390625
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
