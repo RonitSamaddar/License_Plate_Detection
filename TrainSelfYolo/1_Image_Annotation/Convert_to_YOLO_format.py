@@ -62,6 +62,8 @@ if __name__ == "__main__":
 
     # Prepare the dataset for YOLO
     multi_df = pd.read_csv(FLAGS.VoTT_csv)
+    #print(FLAGS.VoTT_csv)
+    #print(multi_df.columns)
     labels = multi_df["label"].unique()
     labeldict = dict(zip(labels, range(len(labels))))
     multi_df.drop_duplicates(subset=None, keep="first", inplace=True)

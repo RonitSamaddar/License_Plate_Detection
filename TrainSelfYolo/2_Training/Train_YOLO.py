@@ -131,10 +131,26 @@ if __name__ == "__main__":
         help="Random seed value to make script deterministic. Default is 'None', i.e. non-deterministic.",
     )
     parser.add_argument(
-        "--epochs",
+        "--epochs1",
         type=float,
-        default=51,
-        help="Number of epochs for training last layers and number of epochs for fine-tuning layers. Default is 51.",
+        default=30,
+        help="Number of epochs for training last layers.Default is 30",
+    )
+    parser.add_argument(
+        "--epochs2",
+        type=float,
+        default=10,
+        help="Number of epochs for fine-tuning layers. Default is 10.",
+    )
+    parser.add_argument(
+        "--only_run_training",
+        default=False,
+        help="If set to true, will only run the initial training part",
+    )
+    parser.add_argument(
+        "--only_run_fine_tune",
+        default=False,
+        help="If set to true, will only run the fine tuning part(Only if already have weights of first part)",
     )
 
     FLAGS = parser.parse_args()
@@ -149,7 +165,7 @@ if __name__ == "__main__":
     weights_path = FLAGS.weights_path
 
     input_shape = (416, 416)  # multiple of 32, height, width
-    epoch1, epoch2 = FLAGS.epochs, FLAGS.epochs
+    epoch1, epoch2 = FLAGS.epochs1, FLAGS.epochs2
 
     is_tiny_version = len(anchors) == 6  # default setting
     if FLAGS.is_tiny:
@@ -179,6 +195,7 @@ if __name__ == "__main__":
     with open(FLAGS.annotation_file) as f:
         lines = f.readlines()
 
+
     # This step makes sure that the path names correspond to the local machine
     # This is important if annotation and training are done on different machines (e.g. training on AWS)
     lines = ChangeToOtherMachine(lines, remote_machine="")
@@ -188,7 +205,7 @@ if __name__ == "__main__":
 
     # Train with frozen layers first, to get a stable loss.
     # Adjust num epochs to your dataset. This step is enough to obtain a decent model.
-    if True:
+    if FLAGS.only_run_fine_tune==False: #else will only run the fine-tuning stage
         model.compile(
             optimizer=Adam(lr=1e-3),
             loss={
@@ -236,7 +253,10 @@ if __name__ == "__main__":
 
     # Unfreeze and continue training, to fine-tune.
     # Train longer if the result is unsatisfactory.
-    if True:
+
+    if FLAGS.only_run_training==False:
+        if FLAGS.only_run_fine_tune==True:#Directly starting from fine-tuning by loading previous weights
+            model.save_weights(os.path.join(log_dir, "trained_weights_stage_1.h5"),compile=False)
         for i in range(len(model.layers)):
             model.layers[i].trainable = True
         model.compile(
@@ -252,6 +272,7 @@ if __name__ == "__main__":
                 num_train, num_val, batch_size
             )
         )
+        
         history = model.fit_generator(
             data_generator_wrapper(
                 lines[:num_train], batch_size, input_shape, anchors, num_classes
