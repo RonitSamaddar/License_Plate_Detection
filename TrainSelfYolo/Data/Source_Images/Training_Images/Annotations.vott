@@ -5,7 +5,7 @@
         "name": "Source",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYTBjYjgzNzQ2YzE3M2NmYWRhNjkzZjdmNWQxZjMxZDBkOGI3YmI1MTA5NjVjOTYyZGYyZWY4ZDU5M2JkZThhNjNhZmUzZDNkMjk2MDRlYzk2YjVkZGQ4YWY0MDI1Yjk4IiwiaXYiOiJhZDdlZDUzOGE0NDY5ZGRhYWRlNWFlMzliMjcxZWI0YzJmMzU4YmRjNzAyZTBlZmMifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNjQyM2RhYjFjZDNjNWU3ODllMTA3YzZiNDU2YTE5NGIwOGMwMWY3MmNjNzQwZDJjZTM0YmI1MjBhNTgwZDcwYTk1MjUyNWE2YTkwZGRjMWJjZjRkNzFlNmJmMDg3YTcyIiwiaXYiOiI1M2RlNDJmNjY3MmQ1MTE5NGFjZDI3OGQzNzYyYWNmY2ExZmY5ZWViZDE3NzU3NjMifQ=="
         },
         "id": "4GuGmnotJ"
     },
@@ -13,7 +13,7 @@
         "name": "Source",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiN2UwZTZjYTRhZGUzYmY1YWU5NjE0OWQ2M2NjYzQzMzQxNzY1Yzg1ZTEzYjY3NTMyNTQ5MTk4YjI1ZTNiOTRiNjE0ZDFjNDQ0YmRjZTY4YWNkZmJkODk5ZDkzMjYxZDc2IiwiaXYiOiI2YzJjZTFjYWExODA3NTMyNTRlNDlkY2IzZDU1MmZhMjUzZDQ0NjAxYjFiOTYyZTkifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiN2MzOWRiMDk4OTkzNGU0NGQ2NTE1ODhjM2VmNTJmYWQ4NGIxODRmNDI1OWIyZmI3MmY5MDQ5ODY0MjRkNWIzZDRmMGY4ZmFlNjRjNjA1NjNiOWY5ZmYzMDIwZWEyNmFiIiwiaXYiOiJkMmM4ODA0N2NkMGEzYTZjNDYxNDQ0MDdjYWFlOGJmMWJjYzNmZDA1NGUwMWY1ZmMifQ=="
         },
         "id": "4GuGmnotJ"
     },
@@ -33,9 +33,9 @@
         "modelPathType": "coco"
     },
     "exportFormat": {
-        "providerType": "vottJson",
+        "providerType": "csv",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZjEwOWRlNzgxZDQzOGJhODNlNTA2Njk5Yzg1ZmFkNzZiMTQwNGVmMjAzMTI1NmNjOTI0YzU5ZDFkNGFlODA0MjQwOTc4N2JmOTc0MTkyYTliNWY2OTBiNjMxOTc4ZDdjIiwiaXYiOiJjMGFiMTgwOWMyYjM5Y2IzNGYyNzE0NDE0N2U0M2E5ODZkYjI1OTY4YzA0NDZjYTkifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzgxMzJkYTkzNTkyYmI3MzNhZTlkOGNjMTM4MGIyNDRkZTFhOTkyNDQ5Y2NhYTZmNWRjZjBhYThjOWIwZWRmOWY0ZmIxYzg2NWMzYmNkYmQ2YzE4YjY0ZjA4ZThhNWQ1IiwiaXYiOiIzZDg1ZDI1NTk5ZTUwMGUyNTJmZDk5MThjYzk4YjBmZWM3YzgzMzg5YTYwMTkzMjkifQ=="
         }
     },
     "version": "2.2.0",
@@ -5798,7 +5798,7 @@
                 "width": 262,
                 "height": 192
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         }
     }
