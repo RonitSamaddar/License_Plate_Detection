@@ -1,0 +1,480 @@
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i1.png 0,47,275,115,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i101.png 102,101,160,122,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i102.png 113,80,171,111,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i10.png 107,87,164,111,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i100.png 385,743,660,871,0 1694,337,1752,384,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i103.png 69,50,236,149,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i109.png 100,73,158,103,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i105.png 25,62,233,98,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i106.png 174,52,237,68,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i104.png 47,346,388,438,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i110.png 51,112,93,127,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i11.png 275,222,357,282,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i112.png 480,381,805,445,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i111.png 1080,728,1211,772,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i113.png 1115,725,1360,799,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i116.png 61,80,121,99,0 218,23,237,29,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i114.png 131,101,185,114,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i117.png 103,130,429,227,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i119.png 360,389,534,478,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i115.png 270,486,473,524,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i123.png 56,57,256,101,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i121.png 76,47,204,71,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i120.png 108,84,180,102,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i12.png 178,113,243,139,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i122.png 127,49,488,170,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i125.png 121,83,183,118,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i127.png 32,44,67,54,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i128.png 12,36,247,162,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i126.png 305,223,436,253,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i124.png 439,813,781,927,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i131.png 89,94,170,116,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i132.png 33,57,54,65,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i13.png 167,99,194,109,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i130.png 105,128,137,149,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i129.png 222,307,343,357,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i136.png 87,62,222,130,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i137.png 20,32,272,156,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i133.png 77,90,121,105,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i135.png 177,228,505,410,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i134.png 675,381,811,417,0 275,290,307,303,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i139.png 0,35,53,62,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i14.png 233,119,422,180,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i140.png 67,58,249,154,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i141.png 406,294,505,368,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i138.png 76,310,218,361,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i142.png 62,201,147,242,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i143.png 44,86,93,120,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i146.png 240,181,328,231,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i144.png 261,353,421,496,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i147.png 1237,465,1439,559,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i149.png 157,60,234,98,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i15.png 96,113,215,138,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i150.png 289,342,413,409,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i148.png 392,464,488,516,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i154.png 1346,825,1944,1308,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i17.png 56,91,118,118,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i160.png 296,223,375,263,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i18.png 151,265,177,275,0 439,329,488,345,0 207,200,225,207,0 366,196,375,204,0 275,198,286,206,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i164.png 294,264,368,286,0 430,224,492,245,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i170.png 206,326,441,388,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i180.png 13,49,259,147,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i184.png 136,56,249,98,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i181.png 18,217,76,240,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i183.png 173,129,210,138,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i182.png 34,101,87,113,0 240,61,288,77,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i185.png 3,3,132,29,0 78,41,206,70,0 2,83,132,110,0 77,122,206,150,0 2,163,132,192,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i187.png 71,119,115,133,0 183,71,274,103,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i189.png 170,221,441,367,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i186.png 299,374,582,451,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i188.png 272,843,639,925,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i193.png 160,125,192,152,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i19.png 463,229,536,278,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i192.png 4,118,49,136,0 233,141,259,163,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i190.png 46,157,830,463,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i191.png 166,137,885,664,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i198.png 116,148,203,198,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i195.png 46,16,130,47,0 174,14,245,35,0 171,109,282,133,0 45,108,109,150,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i196.png 283,84,306,93,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i194.png 592,485,1320,941,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i197.png 251,360,487,559,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i200.png 71,88,122,117,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i2.png 161,80,238,104,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i199.png 123,50,200,92,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i20.png 179,152,268,178,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i16.png 653,385,1255,523,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i201.png 60,72,196,137,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i204.png 60,23,227,79,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i203.png 55,115,200,152,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i205.png 128,97,738,397,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i202.png 772,727,1014,840,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i208.png 63,74,86,89,0 192,72,212,89,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i206.png 68,76,278,140,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i209.png 182,86,222,107,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i21.png 2,20,31,38,0 125,17,146,34,0 43,19,75,39,0 167,11,205,30,0 83,19,104,35,0 5,58,48,78,0 85,85,135,114,0 64,59,93,83,0 1,103,34,124,0 142,97,164,114,0 57,104,78,119,0 102,60,145,76,0 182,56,205,76,0 150,53,179,72,0 180,95,201,108,0 2,149,36,172,0 49,144,70,164,0 86,139,123,163,0 173,127,209,147,0 136,145,161,163,0 184,155,202,169,0 263,54,339,87,0 540,95,582,112,0 532,276,593,300,0 260,269,421,337,0 69,274,152,304,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i207.png 373,500,543,554,0 621,405,649,430,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i213.png 87,95,163,113,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i210.png 155,83,211,100,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i214.png 64,145,121,160,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i211.png 79,122,123,138,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i212.png 193,69,221,78,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i215.png 70,98,193,126,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i216.png 96,136,160,153,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i218.png 103,83,160,100,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i217.png 69,188,123,202,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i219.png 145,115,212,135,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i222.png 110,108,152,120,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i220.png 125,104,197,148,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i221.png 68,194,131,212,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i223.png 31,131,69,144,0 160,110,197,125,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i22.png 410,205,571,250,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i225.png 36,116,75,137,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i228.png 104,86,162,102,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i226.png 95,62,153,78,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i224.png 121,304,248,343,0 62,117,79,131,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i227.png 133,93,192,109,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i229.png 36,52,64,60,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i230.png 125,149,155,165,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i232.png 117,90,176,122,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i231.png 613,561,829,683,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i23.png 2214,1351,2611,1641,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i233.png 109,122,172,140,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i234.png 160,124,205,155,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i236.png 76,126,105,148,0 190,108,198,117,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i237.png 485,455,753,609,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i235.png 64,603,339,706,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i240.png 124,162,166,173,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i238.png 494,263,613,302,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i241.png 334,87,475,163,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i24.png 221,226,371,278,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i239.png 470,392,579,430,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i244.png 119,113,188,130,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i246.png 31,136,57,150,0 211,120,224,133,0 257,114,265,123,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i242.png 142,90,177,107,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i245.png 205,415,375,473,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i243.png 879,389,999,463,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i247.png 5,153,39,177,0 167,128,190,148,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i250.png 58,146,121,163,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i248.png 233,159,269,178,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i249.png 79,146,134,162,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i25.png 418,477,708,570,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i253.png 163,109,203,123,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i255.png 224,113,266,144,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i251.png 90,102,132,119,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i252.png 308,387,474,427,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i254.png 98,174,177,204,0 350,132,392,152,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i256.png 43,67,173,134,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i259.png 161,101,194,111,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i258.png 190,144,234,163,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i26.png 290,118,517,210,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i257.png 88,141,171,161,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i261.png 130,122,204,163,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i260.png 51,104,109,128,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i264.png 99,67,242,124,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i262.png 210,122,241,154,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i263.png 115,154,178,172,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i265.png 104,65,225,98,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i269.png 41,82,63,97,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i267.png 43,137,96,156,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i266.png 35,160,75,171,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i268.png 347,706,732,796,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i272.png 0,57,11,65,0 87,54,99,64,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i274.png 101,121,159,137,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i271.png 113,112,147,131,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i273.png 349,363,424,398,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i270.png 196,378,298,459,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i278.png 85,134,147,150,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i275.png 93,68,173,94,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i277.png 49,63,89,80,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i279.png 215,263,287,282,0 459,265,521,293,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i276.png 827,285,969,393,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i28.png 102,110,146,123,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i280.png 38,186,97,203,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i282.png 41,150,951,371,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i283.png 183,100,227,118,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i281.png 213,353,367,403,0 565,283,632,307,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i286.png 23,78,93,106,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i288.png 565,483,848,553,0 576,560,859,645,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i284.png 187,125,222,138,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i287.png 12,360,139,443,0 752,298,977,411,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i285.png 261,560,1808,910,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i292.png 527,333,642,381,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i29.png 350,159,506,212,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i289.png 221,434,342,476,0 789,421,874,447,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i290.png 366,226,472,260,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i291.png 1341,778,1647,871,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i297.png 121,94,194,113,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i296.png 117,156,228,182,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i293.png 178,100,204,109,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i295.png 84,123,130,149,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i294.png 372,219,486,276,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i298.png 49,164,92,199,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i3.png 113,106,175,123,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i299.png 164,114,195,126,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i300.png 66,98,117,115,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i30.png 712,426,834,468,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i304.png 307,179,402,201,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i303.png 243,242,306,263,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i305.png 155,216,459,400,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i302.png 176,324,306,354,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i301.png 329,390,508,434,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i306.png 139,142,201,161,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i307.png 57,122,183,149,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i31.png 60,75,115,93,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i309.png 104,122,128,135,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i308.png 108,87,220,123,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i313.png 160,103,195,114,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i312.png 146,336,245,384,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i311.png 229,476,504,646,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i310.png 252,184,399,259,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i314.png 745,505,924,563,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i318.png 45,88,143,126,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i319.png 87,140,138,155,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i317.png 137,93,176,113,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i316.png 122,99,163,111,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i315.png 147,770,331,823,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i322.png 110,52,201,80,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i323.png 207,62,255,75,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i320.png 116,83,222,125,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i32.png 230,329,435,396,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i321.png 580,1387,1169,1577,0 239,583,383,662,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i327.png 106,117,157,142,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i324.png 28,49,70,59,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i325.png 98,87,165,128,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i326.png 93,157,285,203,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i328.png 368,431,629,517,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i329.png 334,211,382,228,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i331.png 16,26,269,152,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i333.png 120,338,297,407,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i330.png 42,121,986,607,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i33.png 229,306,566,421,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i335.png 137,77,167,93,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i339.png 53,139,164,176,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i337.png 164,111,227,141,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i334.png 346,321,539,382,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i336.png 238,304,1679,694,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i340.png 171,133,186,140,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i343.png 39,51,62,59,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i341.png 350,338,570,391,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i34.png 26,61,715,238,0 7,237,722,414,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i342.png 488,632,1525,1006,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i344.png 234,31,277,80,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i348.png 44,65,150,114,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i346.png 50,57,223,142,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i345.png 339,362,405,401,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i347.png 164,235,736,381,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i349.png 93,63,200,138,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i351.png 78,100,158,122,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i350.png 43,60,72,75,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i35.png 67,329,163,360,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i352.png 683,543,952,622,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i354.png 131,106,183,125,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i356.png 133,82,211,130,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i355.png 219,122,261,147,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i357.png 1015,316,2134,1141,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i353.png 304,270,445,346,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i358.png 164,174,220,204,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i36.png 115,386,196,420,0 410,413,570,451,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i360.png 298,238,1119,716,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i361.png 392,740,653,817,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i359.png 919,964,1482,1155,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i362.png 40,101,102,138,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i364.png 41,17,478,122,0 36,125,476,227,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i366.png 557,395,750,464,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i365.png 165,259,351,326,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i363.png 502,621,851,704,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i367.png 241,138,279,153,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i37.png 74,107,149,129,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i370.png 32,75,99,98,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i369.png 434,568,638,664,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i368.png 641,1573,1589,2179,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i371.png 203,114,240,125,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i376.png 251,254,363,289,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i372.png 449,221,540,254,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i374.png 371,354,546,411,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i375.png 6240,2976,6957,3208,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i38.png 68,46,160,112,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i380.png 53,89,169,147,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i378.png 94,108,170,129,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i377.png 387,702,640,822,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i379.png 522,843,1014,1089,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i384.png 85,151,148,167,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i383.png 5,121,72,154,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i381.png 43,44,60,53,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i386.png 222,347,383,390,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i382.png 708,513,856,551,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i388.png 52,109,80,128,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i390.png 145,43,178,56,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i387.png 186,127,216,144,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i389.png 147,109,181,120,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i391.png 70,161,147,180,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i394.png 49,62,135,96,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i395.png 197,52,280,95,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i396.png 86,145,143,162,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i393.png 759,562,1262,702,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i392.png 157,91,203,117,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i397.png 62,85,215,125,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i399.png 92,96,130,111,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i398.png 35,112,121,142,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i4.png 57,153,118,172,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i400.png 518,827,847,979,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i401.png 44,100,84,120,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i402.png 85,97,169,119,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i405.png 45,114,68,140,0 207,83,229,100,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i403.png 166,135,207,148,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i404.png 27,104,65,114,0 226,105,263,116,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i407.png 81,149,122,175,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i406.png 97,79,149,94,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i41.png 28,72,271,136,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i408.png 228,129,250,150,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i409.png 224,116,396,158,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i410.png 3,75,257,136,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i412.png 0,97,275,142,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i413.png 157,127,225,144,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i414.png 47,140,68,154,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i411.png 343,271,714,522,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i416.png 73,72,253,123,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i417.png 116,62,203,83,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i415.png 112,85,189,106,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i419.png 560,317,738,362,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i418.png 293,320,407,380,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i42.png 190,72,232,95,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i420.png 82,165,153,191,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i422.png 189,102,215,111,0 12,125,44,134,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i423.png 226,296,492,386,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i421.png 196,776,408,894,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i428.png 57,69,89,89,0 209,121,232,137,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i424.png 76,129,182,153,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i425.png 166,134,201,148,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i427.png 50,142,108,161,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i426.png 36,316,159,391,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i43.png 0,37,291,117,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i430.png 112,89,170,110,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i431.png 72,166,217,216,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i432.png 199,370,375,426,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i429.png 429,360,621,411,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i437.png 59,15,240,126,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i433.png 127,88,182,101,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i434.png 35,36,68,46,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i435.png 257,142,386,173,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i436.png 140,134,237,156,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i439.png 288,132,414,226,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i441.png 91,112,214,137,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i438.png 174,106,224,122,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i440.png 329,360,485,399,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i442.png 334,261,534,310,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i444.png 69,100,219,183,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i443.png 112,87,180,105,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i446.png 25,88,110,131,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i445.png 46,76,111,94,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i447.png 456,252,534,277,0 90,344,170,364,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i449.png 105,129,148,140,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i450.png 96,129,202,159,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i451.png 44,145,116,176,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i45.png 79,55,182,120,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i448.png 554,753,841,822,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i454.png 82,45,144,62,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i455.png 75,100,157,119,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i456.png 178,92,221,108,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i452.png 105,149,154,163,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i453.png 70,682,481,783,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i457.png 35,106,73,127,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i459.png 104,107,176,133,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i460.png 61,187,142,206,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i461.png 63,111,135,133,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i458.png 1700,1156,2745,1573,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i463.png 37,72,235,121,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i465.png 74,118,99,126,0 156,89,167,94,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i462.png 17,99,187,141,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i466.png 226,97,276,117,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i464.png 316,458,510,511,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i468.png 105,115,157,127,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i469.png 54,73,109,91,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i47.png 137,123,172,133,0 201,106,229,114,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i467.png 757,476,1112,554,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i470.png 843,929,1041,1008,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i474.png 131,96,196,117,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i472.png 238,294,459,338,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i473.png 11,59,296,128,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i475.png 215,221,364,261,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i471.png 710,427,815,481,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i476.png 145,99,190,115,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i478.png 145,171,366,221,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i48.png 101,35,207,63,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i477.png 93,99,208,124,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i479.png 118,228,190,246,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i484.png 112,100,193,119,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i483.png 175,112,244,139,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i480.png 813,575,966,623,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i481.png 404,315,540,369,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i482.png 482,544,939,688,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i486.png 97,76,179,97,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i487.png 91,85,130,114,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i488.png 669,609,847,666,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i489.png 43,152,2491,764,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i485.png 246,1240,3160,1924,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i494.png 32,55,220,119,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i490.png 117,88,202,121,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i493.png 117,116,207,146,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i491.png 77,98,110,112,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i492.png 50,88,101,104,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i497.png 155,324,301,361,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i499.png 135,107,297,209,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i495.png 391,275,908,601,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i498.png 333,328,466,367,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i496.png 345,217,1926,586,0 448,619,1793,1411,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i5.png 67,94,167,122,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i502.png 210,187,332,226,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i503.png 117,129,171,150,0 277,72,293,78,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i501.png 145,67,209,90,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i500.png 715,149,948,206,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i506.png 46,104,76,120,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i508.png 124,104,169,115,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i507.png 214,99,248,108,0 167,88,178,93,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i509.png 84,81,123,106,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i504.png 1048,460,1184,509,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i510.png 174,148,225,160,0 1,140,126,180,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i513.png 28,53,229,108,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i51.png 43,103,134,138,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i511.png 201,151,221,158,0 70,121,77,126,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i512.png 427,0,1142,307,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i516.png 135,89,204,109,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i514.png 124,97,165,114,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i515.png 230,386,388,440,0 884,336,986,369,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i518.png 462,362,604,406,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i517.png 496,433,697,499,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i519.png 174,117,225,133,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i52.png 74,146,117,164,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i522.png 79,143,146,164,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i521.png 78,212,159,239,0 501,199,589,227,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i520.png 550,484,706,521,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i523.png 238,164,323,194,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i55.png 169,79,234,100,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i54.png 124,66,148,75,0 87,46,97,53,0 256,111,270,118,0 0,87,9,97,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i56.png 119,82,168,107,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i53.png 872,948,2496,1486,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i57.png 85,181,121,202,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i58.png 35,80,63,87,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i59.png 98,101,183,145,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i60.png 153,95,180,104,0 103,91,115,95,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i6.png 372,471,716,629,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i65.png 80,152,122,175,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i62.png 150,127,191,138,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i64.png 152,134,198,153,0 99,112,121,127,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i66.png 165,116,195,140,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i61.png 268,397,354,448,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i68.png 26,109,78,134,0 257,20,311,48,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i67.png 150,133,219,167,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i69.png 32,129,94,160,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i70.png 126,84,192,126,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i7.png 179,97,237,132,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i71.png 142,97,220,119,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i75.png 55,119,82,137,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i74.png 244,173,445,253,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i73.png 423,339,609,445,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i72.png 1013,782,1419,948,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i76.png 101,91,144,115,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i78.png 11,58,196,161,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i8.png 113,81,287,160,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i79.png 2632,2028,3378,2560,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i77.png 712,972,894,1071,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i84.png 102,44,213,115,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i81.png 65,31,221,122,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i80.png 39,138,91,157,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i85.png 78,278,348,431,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i83.png 191,187,440,343,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i88.png 0,17,100,77,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i86.png 163,220,274,247,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i89.png 59,84,81,95,0 230,79,251,92,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i9.png 209,277,431,348,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i87.png 198,577,481,649,0 1385,362,1631,426,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i93.png 0,143,125,219,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i92.png 275,41,353,62,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i90.png 20,19,110,82,0 161,24,254,69,0 169,126,244,159,0 5,103,127,163,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i94.png 195,123,293,143,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i91.png 259,322,450,373,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i95.png 9,3,318,154,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i99.png 44,88,222,132,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i98.png 154,236,238,285,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i96.png 29,74,658,392,0
+/media/ronit/DATA21/Programming/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Training_Images/vott-csv-export/i97.png 322,637,516,721,0
