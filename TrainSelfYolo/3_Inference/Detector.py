@@ -43,7 +43,8 @@ detection_results_file = os.path.join(detection_results_folder, "Detection_Resul
 
 model_folder = os.path.join(data_folder, "Model_Weights")
 
-model_weights = os.path.join(model_folder, "trained_weights_final.h5")
+model_weights2 = os.path.join(model_folder, "trained_weights_final.h5")
+model_weights1 = os.path.join(model_folder,"trained_weights_stage_1.h5")
 model_classes = os.path.join(model_folder, "data_classes.txt")
 
 anchors_path = os.path.join(src_path, "keras_yolo3", "model_data", "yolo_anchors.txt")
@@ -92,7 +93,7 @@ if __name__ == "__main__":
         "--yolo_model",
         type=str,
         dest="model_path",
-        default=model_weights,
+        default=model_weights1,
         help="Path to pre-trained weight files. Default is " + model_weights,
     )
 
