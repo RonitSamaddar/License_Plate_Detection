@@ -94,7 +94,7 @@ if __name__ == "__main__":
         type=str,
         dest="model_path",
         default=model_weights1,
-        help="Path to pre-trained weight files. Default is " + model_weights,
+        help="Path to pre-trained weight files. Default is " + model_weights1,
     )
 
     parser.add_argument(

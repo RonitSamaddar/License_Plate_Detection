@@ -41,6 +41,7 @@ from keras_yolo3.yolo3.model import (
     yolo_loss,
 )
 from keras_yolo3.yolo3.utils import get_random_data
+from keras.models import load_model
 from PIL import Image
 from time import time
 import pickle
@@ -234,6 +235,7 @@ if __name__ == "__main__":
             callbacks=[logging, checkpoint],
         )
         model.save_weights(os.path.join(log_dir, "trained_weights_stage_1.h5"))
+        model.save(os.path.join(log_dir, "temp.h5"))
 
         step1_train_loss = history.history["loss"]
 
@@ -255,8 +257,15 @@ if __name__ == "__main__":
     # Train longer if the result is unsatisfactory.
 
     if FLAGS.only_run_training==False:
-        if FLAGS.only_run_fine_tune==True:#Directly starting from fine-tuning by loading previous weights
-            model.save_weights(os.path.join(log_dir, "trained_weights_stage_1.h5"),compile=False)
+        print("\n\n\n")
+        print("FINE TUNE ="+str(FLAGS.only_run_fine_tune))
+        print(FLAGS.only_run_fine_tune)
+        print("\n\n\n")
+
+        if FLAGS.only_run_fine_tune:#Directly starting from fine-tuning by loading previous weights
+            print("WEIGHTS TO BE LOADED")
+            model.load_weights(os.path.join(log_dir, "trained_weights_stage_1.h5"),compile=True)
+            print("LOADED WEIGHTS")
         for i in range(len(model.layers)):
             model.layers[i].trainable = True
         model.compile(
