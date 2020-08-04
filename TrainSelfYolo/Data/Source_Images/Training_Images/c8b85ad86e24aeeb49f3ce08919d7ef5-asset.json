@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "c8b85ad86e24aeeb49f3ce08919d7ef5",
+        "name": "i85.png",
+        "path": "file:/home/ronit/Training_Images2/i85.png",
+        "size": {
+            "width": 200,
+            "height": 200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ZeOOJ_oud",
+            "type": "RECTANGLE",
+            "tags": [
+                "License_Plate"
+            ],
+            "boundingBox": {
+                "height": 74.84076433121018,
+                "width": 79.29936305732484,
+                "left": 25.477707006369425,
+                "top": 125.1592356687898
+            },
+            "points": [
+                {
+                    "x": 25.477707006369425,
+                    "y": 125.1592356687898
+                },
+                {
+                    "x": 104.77707006369427,
+                    "y": 125.1592356687898
+                },
+                {
+                    "x": 104.77707006369427,
+                    "y": 200
+                },
+                {
+                    "x": 25.477707006369425,
+                    "y": 200
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

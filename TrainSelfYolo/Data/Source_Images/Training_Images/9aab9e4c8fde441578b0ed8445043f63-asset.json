@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "9aab9e4c8fde441578b0ed8445043f63",
+        "name": "i485.png",
+        "path": "file:/home/ronit/Training_Images2/i485.png",
+        "size": {
+            "width": 200,
+            "height": 200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "SK5__5JGi",
+            "type": "RECTANGLE",
+            "tags": [
+                "License_Plate"
+            ],
+            "boundingBox": {
+                "height": 56.05095541401273,
+                "width": 175.47770700636943,
+                "left": 16.560509554140125,
+                "top": 100
+            },
+            "points": [
+                {
+                    "x": 16.560509554140125,
+                    "y": 100
+                },
+                {
+                    "x": 192.03821656050954,
+                    "y": 100
+                },
+                {
+                    "x": 192.03821656050954,
+                    "y": 156.05095541401272
+                },
+                {
+                    "x": 16.560509554140125,
+                    "y": 156.05095541401272
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

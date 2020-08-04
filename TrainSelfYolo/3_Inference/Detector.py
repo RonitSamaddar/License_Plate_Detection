@@ -93,8 +93,8 @@ if __name__ == "__main__":
         "--yolo_model",
         type=str,
         dest="model_path",
-        default=model_weights1,
-        help="Path to pre-trained weight files. Default is " + model_weights1,
+        default=model_weights2,
+        help="Path to pre-trained weight files. Default is " + model_weights2,
     )
 
     parser.add_argument(
