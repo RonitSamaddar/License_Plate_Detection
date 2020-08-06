@@ -1,0 +1,14 @@
+image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
+i11.png,/content/gdrive/My Drive/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Test_Images/i11.png,253,240,379,277,0,0.4492133855819702,624,468
+i11.png,/content/gdrive/My Drive/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Test_Images/i11.png,278,225,354,286,0,0.908003568649292,624,468
+i32.png,/content/gdrive/My Drive/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Test_Images/i32.png,231,334,438,389,0,0.8642914891242981,700,525
+i16.png,/content/gdrive/My Drive/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Test_Images/i16.png,659,370,1211,534,0,0.7715677618980408,1920,1080
+i9.png,/content/gdrive/My Drive/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Test_Images/i9.png,228,270,420,355,0,0.8967207074165344,800,450
+i25.png,/content/gdrive/My Drive/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Test_Images/i25.png,417,466,703,581,0,0.9785013794898987,1280,1034
+i22.png,/content/gdrive/My Drive/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Test_Images/i22.png,419,185,564,256,0,0.400459885597229,900,450
+i23.png,/content/gdrive/My Drive/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Test_Images/i23.png,2221,1371,2610,1604,0,0.9115742444992065,3336,2106
+i30.png,/content/gdrive/My Drive/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Test_Images/i30.png,698,426,828,465,0,0.918756365776062,1000,611
+i34.png,/content/gdrive/My Drive/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Test_Images/i34.png,93,254,617,434,0,0.4491468667984009,800,450
+i34.png,/content/gdrive/My Drive/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Test_Images/i34.png,48,73,668,257,0,0.47238314151763916,800,450
+i33.png,/content/gdrive/My Drive/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Test_Images/i33.png,169,299,616,413,0,0.9939067363739014,800,600
+i35.png,/content/gdrive/My Drive/License_Plate_Detection/TrainSelfYolo/Data/Source_Images/Test_Images/i35.png,65,329,165,363,0,0.9342979788780212,433,552
