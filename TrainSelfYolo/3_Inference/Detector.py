@@ -121,7 +121,7 @@ if __name__ == "__main__":
         "--confidence",
         type=float,
         dest="score",
-        default=0,
+        default=0.25,
         help="Threshold for YOLO object confidence score to show predictions. Default is 0.25.",
     )
 
@@ -138,7 +138,7 @@ if __name__ == "__main__":
         "--postfix",
         type=str,
         dest="postfix",
-        default="_catface",
+        default="_boundBox",
         help='Specify the postfix for images with bounding boxes. Default is "_catface"',
     )
 
